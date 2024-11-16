@@ -2,7 +2,7 @@
   <img height="600" src="https://images.anandtech.com/doci/17429/WWDC22_Carousel_678x452.jpg"  />
 </div> -->
 
-<h1 align="left">Heloo 👋, I'm Bhumit</h1>
+<h1 align="left">Hello 👋, I'm Bhumit</h1>
 <h3 align="left">React Developer</h3>
 
 - 👨‍💻 All of work and journey are available at [bhumitjaviya.vercel.app](https://bhumitjaviya.vercel.app/)
