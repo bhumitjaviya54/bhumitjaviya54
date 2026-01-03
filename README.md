@@ -33,6 +33,5 @@
   <img src="https://media.graphassets.com/VKHHNvEETYqZRkqgjybc" height="40" width="40" alt="nextjs logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" width="52" alt="nodejs logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" width="52" alt="mongodb logo"  />
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="41" width="45" alt="Postman logo"  />
      
 </div>
